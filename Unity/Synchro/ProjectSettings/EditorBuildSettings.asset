@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Synchro/Tests/Runtime/RecordReplayBufferTest.unity
+    guid: 7d7faf0c88aa71c46a3ebf030440e4d9
   m_configObjects: {}

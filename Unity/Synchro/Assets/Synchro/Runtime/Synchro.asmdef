@@ -1,0 +1,16 @@
+{
+    "name": "Synchro",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a85ea926b4fe78e4fb71b26f31e9dcb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

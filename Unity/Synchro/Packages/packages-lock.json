@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mskz-3110.dast-bytes": {
+      "version": "https://github.com/mskz-3110/DastBytes.git?path=/Unity/DastBytes/Assets/DastBytes/Runtime#v1.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "68354c4178246c2b745f1b2dc510eb5791cca80f"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.15",
       "depth": 0,
